@@ -1,0 +1,19 @@
+{
+  "platform": "SPRK42 Flow",
+  "deployment": "EDP Flow",
+  "businessName": "EDP",
+  "softwareProvider": "SPRK42 LTD",
+  "supportEmail": "support@sprk42.com",
+  "legalStatus": "draft-review-required",
+  "dataController": "TODO: confirm EDP legal entity/controller name",
+  "privacyContact": "support@sprk42.com",
+  "branding": {
+    "logo": "branding/edp-logo.png",
+    "appDisplayName": "EDP Flow"
+  },
+  "notes": [
+    "Confirm the legal entity that operates EDP and acts as controller for customer/homeworker operational data.",
+    "Confirm whether SPRK42 LTD acts solely as software provider/processor for this deployment.",
+    "Review subprocessors, retention and account deletion wording before public app-store publication."
+  ]
+}
